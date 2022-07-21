@@ -1,0 +1,8 @@
+001;coca cola;mediana;7,00
+001;cocacola;grande;10,00
+002;pepsi;grande;10,00
+003;fanta;mediano;12,00
+004;crush;chiquito;2,00
+005;guarana;grande;7,00
+006;fanta;mediano;7,00
+009;pepsi;grande;10,00
